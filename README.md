@@ -38,10 +38,10 @@ This project aims to build an intelligent model capable of accurately predicting
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | **XX%** |
-| Precision | **XX%** |
-| Recall | **XX%** |
-| F1-score | **XX%** |
+| Accuracy | **98.24%** |
+| Precision | **76.80%** |
+| Recall | **98.10%** |
+| F1-score | **97.90%** |
 
 > Replace `XX` values with your actual results from the notebook.
 
