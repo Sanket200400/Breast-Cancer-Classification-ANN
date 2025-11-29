@@ -1,6 +1,3 @@
-# Breast-Cancer-Classification-ANN
-A deep learning-based project for predicting breast cancer (benign or malignant) using an Artificial Neural Network (ANN) with TensorFlow and Scikit-Learn.
-
 # 🧬 Breast Cancer Classification using Artificial Neural Network (ANN)
 
 This project applies machine learning and deep learning techniques to classify whether a breast tumor is **benign** or **malignant** based on clinical features. The model is built using an **Artificial Neural Network (ANN)** implemented with **TensorFlow/Keras**, achieving high prediction accuracy.
@@ -38,10 +35,10 @@ This project aims to build an intelligent model capable of accurately predicting
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | **98.24%** |
-| Precision | **76.80%** |
-| Recall | **98.10%** |
-| F1-score | **97.90%** |
+| Accuracy | **XX%** |
+| Precision | **XX%** |
+| Recall | **XX%** |
+| F1-score | **XX%** |
 
 > Replace `XX` values with your actual results from the notebook.
 
@@ -59,49 +56,3 @@ This project aims to build an intelligent model capable of accurately predicting
 
 ## 📁 Project Structure
 
-Breast-Cancer-Classification-ANN
-│
-├── data/
-│ └── data.csv
-│
-├── notebooks/
-│ └── DL_Project_1_Breast_Cancer_Classification_with_NN.ipynb
-│
-├── src/
-│ └── model.py
-│ └── preprocess.py
-│ └── predict.py (optional)
-│
-├── requirements.txt
-└── README.md
-
-1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/Breast-Cancer-Classification-ANN
-cd Breast-Cancer-Classification-ANN
-
-2️⃣ Install Requirements
-pip install -r requirements.txt
-
-3️⃣ Run Notebook
-
-Open and execute:
-
-notebooks/DL_Project_1_Breast_Cancer_Classification_with_NN.ipynb
-
-4️⃣ (Optional) Predict New Data
-python src/predict.py
-
-📈 Confusion Matrix Example (Add optional)
-
-🔥 Future Improvements
-
-🔹 Add hyperparameter tuning (GridSearchCV / Optuna)
-
-🔹 Convert project into a Flask or FastAPI web app
-
-🔹 Deploy using Streamlit or HuggingFace Spaces
-
-📄 License
-
-This project is licensed under the MIT License.
